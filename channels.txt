@@ -219,3 +219,5 @@ http://192.168.100.27:6878/ace/getstream?id=5ae9afd963961cd07e8f690e44a6596a2bb4
 http://192.168.100.27:6878/ace/getstream?id=887d91ccc27fd4f3097d6df09448ea7bac8910f4
 #EXTINF:-1 group-title="Otro contenido" tvg-id="HISTORIA" tvg-logo="https://i.postimg.cc/NGrXN3S1/historia.png" ,Canal Historia:
 http://192.168.100.27:6878/ace/getstream?id=8bc9696c5b07b723186ac224f5269f02db6dde8e
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Eleven Sports 1 4K
+http://192.168.100.27:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
