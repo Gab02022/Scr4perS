@@ -211,3 +211,5 @@ http://192.168.100.27:6878/ace/getstream?id=a730af20bb9e59f5a561eca463680536c3c2
 http://192.168.100.27:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[EN] BT Sports 2
 http://192.168.100.27:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,PIMPLETV FHD 50FPS
+http://192.168.100.27:6878/ace/getstream?id=ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
