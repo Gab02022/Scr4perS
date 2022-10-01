@@ -219,3 +219,21 @@ acestream://5ae9afd963961cd07e8f690e44a6596a2bb4e51e
 acestream://887d91ccc27fd4f3097d6df09448ea7bac8910f4
 #EXTINF:-1 group-title="Otro contenido" tvg-id="HISTORIA" tvg-logo="https://i.postimg.cc/NGrXN3S1/historia.png" ,Canal Historia:
 acestream://8bc9696c5b07b723186ac224f5269f02db6dde8e
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Eleven Sports 1 4K
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PL] POLSAT SPORT PREMIUM 1A
+acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PL] POLSAT SPORT PREMIUM 1B
+acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PL] POLSAT SPORT PREMIUM 1C
+acestream://d31d828052a432246e59e7d0d640bd55a64f1859
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PT] SPORT TV 3 HD 1080 A
+acestream://4d78fadc6701008fb528202d9671e1d0f2acd486
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PT] SPORT TV 3 HD 1080 B
+acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PT] SPORT TV 3 HD 1080 C
+acestream://a730af20bb9e59f5a561eca463680536c3c2d6c3
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[EN] BT Sports 1
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[EN] BT Sports 2
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
