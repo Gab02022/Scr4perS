@@ -239,3 +239,7 @@ acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,PIMPLETV FHD 50FPS
 acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,PREMIER SPORT 2 FHD
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,ELEVEN 1 FHD
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
