@@ -65,10 +65,6 @@ http://192.168.100.16:6878/ace/getstream?id=4229d640fecf3c0897674241bcf851b67f43
 http://192.168.100.16:6878/ace/getstream?id=c81fb4bec54fed86737544c5609bb863b4acb292
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LIGA SMARTBANK
 http://192.168.100.16:6878/ace/getstream?id=3b50977af3acb17ecd8e463a94888dfbaea028d2
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LIGA SMARTBANK HD_M
-http://192.168.100.16:6878/ace/getstream?id=5c19b80926aa6dd5ff6ff2ba086bf6caa39c56fa
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LIGA SMARTBANK HD_
-http://192.168.100.16:6878/ace/getstream?id=172a0843a8f136659ab139af2d247bcfac602d05
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,Smartbank 3 720
 http://192.168.100.16:6878/ace/getstream?id=1000c018cf4afb7357f10e438e966d23340e4295
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,Smartbank 1080 MultiAudio
@@ -89,6 +85,10 @@ http://192.168.100.16:6878/ace/getstream?id=b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35
 http://192.168.100.16:6878/ace/getstream?id=bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,LIGA DE CAMPEONES 4
 http://192.168.100.16:6878/ace/getstream?id=297fab10d7364ca1991fa43fcff469573688ce7a
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA CAMPEONES HD_M
+http://192.168.100.16:6878/ace/getstream?id=5c19b80926aa6dd5ff6ff2ba086bf6caa39c56fa
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA CAMPEONES HD_
+http://192.168.100.16:6878/ace/getstream?id=172a0843a8f136659ab139af2d247bcfac602d05
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080
 http://192.168.100.16:6878/ace/getstream?id=aedf221240a0f8513d90b555bf1b6e5306ac1e76
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio
@@ -215,7 +215,7 @@ http://192.168.100.16:6878/ace/getstream?id=e130b6b8ab34a7c81191a3abcebe6529c592
 http://192.168.100.16:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Premier Sports 1 \[UK\] (1.7 Mbps) 
 http://192.168.100.16:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Premier Sports 2 \[UK\] (6.8 Mbps) 
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,PREMIER SPORT 2 FHD
 http://192.168.100.16:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Digi Sport 3 Romania   
 http://192.168.100.16:6878/ace/getstream?id=d6902382a5cdbf82534d7364fbb5742d51eae602
@@ -247,8 +247,30 @@ http://192.168.100.16:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678
 http://192.168.100.16:6878/ace/getstream?id=9c9675e499f88ef06e596008ca7ffbfce2df5e56
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TV2 Sport X 
 http://192.168.100.16:6878/ace/getstream?id=f7c4ff53b6f411097e11b96fa794a48d2f220e6e
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,4K electroperra
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Electroperra 4K
 http://192.168.100.16:6878/ace/getstream?id=109c70ce6abc73be01a82571470e3402e4714819
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Eleven Sports 1 4K
+http://192.168.100.16:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PL] POLSAT SPORT PREMIUM 1A
+http://192.168.100.16:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PL] POLSAT SPORT PREMIUM 1B
+http://192.168.100.16:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PL] POLSAT SPORT PREMIUM 1C
+http://192.168.100.16:6878/ace/getstream?id=d31d828052a432246e59e7d0d640bd55a64f1859
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,[PT] SPORT TV 3 HD 1080 A
+http://192.168.100.16:6878/ace/getstream?id=4d78fadc6701008fb528202d9671e1d0f2acd486
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,[PT] SPORT TV 3 HD 1080 B
+http://192.168.100.16:6878/ace/getstream?id=3c81c395fc9385c650e0fba8c286935c594f7e1a
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,[PT] SPORT TV 3 HD 1080 C
+http://192.168.100.16:6878/ace/getstream?id=a730af20bb9e59f5a561eca463680536c3c2d6c3
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[EN] BT Sports 1
+http://192.168.100.16:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[EN] BT Sports 2
+http://192.168.100.16:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,PIMPLETV FHD 50FPS
+http://192.168.100.16:6878/ace/getstream?id=ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,ELEVEN 1 FHD
+http://192.168.100.16:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,UNTITLED CHANNEL
 http://192.168.100.16:6878/ace/getstream?id=f90c6899eb5cadb0050226548246adb56ceade8a M.L.Campeones_720
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Teledporte                     
@@ -261,27 +283,3 @@ http://192.168.100.16:6878/ace/getstream?id=5ae9afd963961cd07e8f690e44a6596a2bb4
 http://192.168.100.16:6878/ace/getstream?id=887d91ccc27fd4f3097d6df09448ea7bac8910f4
 #EXTINF:-1 group-title="Otro contenido" tvg-id="HISTORIA" tvg-logo="https://i.postimg.cc/NGrXN3S1/historia.png" ,Canal Historia:
 http://192.168.100.16:6878/ace/getstream?id=8bc9696c5b07b723186ac224f5269f02db6dde8e
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Eleven Sports 1 4K
-http://192.168.100.16:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PL] POLSAT SPORT PREMIUM 1A
-http://192.168.100.16:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f 
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PL] POLSAT SPORT PREMIUM 1B
-http://192.168.100.16:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867 
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PL] POLSAT SPORT PREMIUM 1C
-http://192.168.100.16:6878/ace/getstream?id=d31d828052a432246e59e7d0d640bd55a64f1859
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PT] SPORT TV 3 HD 1080 A
-http://192.168.100.16:6878/ace/getstream?id=4d78fadc6701008fb528202d9671e1d0f2acd486 
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PT] SPORT TV 3 HD 1080 B
-http://192.168.100.16:6878/ace/getstream?id=3c81c395fc9385c650e0fba8c286935c594f7e1a 
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PT] SPORT TV 3 HD 1080 C
-http://192.168.100.16:6878/ace/getstream?id=a730af20bb9e59f5a561eca463680536c3c2d6c3
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[EN] BT Sports 1
-http://192.168.100.16:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[EN] BT Sports 2
-http://192.168.100.16:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,PIMPLETV FHD 50FPS
-http://192.168.100.16:6878/ace/getstream?id=ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,PREMIER SPORT 2 FHD
-http://192.168.100.16:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,ELEVEN 1 FHD
-http://192.168.100.16:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b

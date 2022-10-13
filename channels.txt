@@ -215,7 +215,7 @@ acestream://e130b6b8ab34a7c81191a3abcebe6529c5920af8
 acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Premier Sports 1 \[UK\] (1.7 Mbps) 
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Premier Sports 2 \[UK\] (6.8 Mbps) 
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,PREMIER SPORT 2 FHD
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Digi Sport 3 Romania   
 acestream://d6902382a5cdbf82534d7364fbb5742d51eae602
@@ -247,8 +247,30 @@ acestream://3147c586346aee00c005d1caa55204d38678c95f
 acestream://9c9675e499f88ef06e596008ca7ffbfce2df5e56
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TV2 Sport X 
 acestream://f7c4ff53b6f411097e11b96fa794a48d2f220e6e
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,4K electroperra
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Electroperra 4K
 acestream://109c70ce6abc73be01a82571470e3402e4714819
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Eleven Sports 1 4K
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PL] POLSAT SPORT PREMIUM 1A
+acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PL] POLSAT SPORT PREMIUM 1B
+acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[PL] POLSAT SPORT PREMIUM 1C
+acestream://d31d828052a432246e59e7d0d640bd55a64f1859
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,[PT] SPORT TV 3 HD 1080 A
+acestream://4d78fadc6701008fb528202d9671e1d0f2acd486
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,[PT] SPORT TV 3 HD 1080 B
+acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,[PT] SPORT TV 3 HD 1080 C
+acestream://a730af20bb9e59f5a561eca463680536c3c2d6c3
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[EN] BT Sports 1
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,[EN] BT Sports 2
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,PIMPLETV FHD 50FPS
+acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,ELEVEN 1 FHD
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,UNTITLED CHANNEL
 acestream://f90c6899eb5cadb0050226548246adb56ceade8a M.L.Campeones_720
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Teledporte                     
